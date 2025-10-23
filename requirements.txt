@@ -1,5 +1,6 @@
-transformers==4.46.3
-tokenizers==0.20.3
+vllm-0.8.5+cu118-cp38-abi3-manylinux1_x86_64.whl
+transformers
+tokenizers
 PyMuPDF
 img2pdf
 einops
@@ -7,3 +8,4 @@ easydict
 addict 
 Pillow
 numpy
+flash-attn==2.7.3 --no-build-isolation
