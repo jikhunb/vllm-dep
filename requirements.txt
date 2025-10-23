@@ -8,4 +8,4 @@ easydict
 addict 
 Pillow
 numpy
-flash-attn==2.7.3 --install-option="--no-build-isolation"
+flash-attn==2.7.3
